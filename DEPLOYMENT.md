@@ -6,7 +6,7 @@
 ✅ **Logos Included**: 38 merchant logos in `01_reference/merchant_logos/`
 ✅ **Self-Contained HTML**: Single-file prototype in `06_react_prototype/index.html`
 
-**Repository**: https://github.com/ProduktEntdecker/ArticlePDF2ERP/tree/main/ING_Dealwise_Prototype
+**Repository**: https://github.com/ProduktEntdecker/ING_Dealwise_Prototype
 
 ---
 
@@ -74,7 +74,7 @@ Since your code is in a **public GitHub repo**, you can reference images directl
 
 1. **Get Raw GitHub URLs** for logos:
    ```
-   https://raw.githubusercontent.com/ProduktEntdecker/ArticlePDF2ERP/main/ING_Dealwise_Prototype/01_reference/merchant_logos/Hero_amazon.png
+   https://raw.githubusercontent.com/ProduktEntdecker/ING_Dealwise_Prototype/main/01_reference/merchant_logos/Hero_amazon.png
    ```
 
 2. **Update image paths** in `index.html`:
@@ -83,7 +83,7 @@ Since your code is in a **public GitHub repo**, you can reference images directl
    <img src="../01_reference/merchant_logos/Hero_amazon.png">
 
    <!-- After -->
-   <img src="https://raw.githubusercontent.com/ProduktEntdecker/ArticlePDF2ERP/main/ING_Dealwise_Prototype/01_reference/merchant_logos/Hero_amazon.png">
+   <img src="https://raw.githubusercontent.com/ProduktEntdecker/ING_Dealwise_Prototype/main/01_reference/merchant_logos/Hero_amazon.png">
    ```
 
 3. **Copy updated HTML** to Lovable/Bolt
